@@ -265,7 +265,10 @@ class Reactforms extends React.Component {
   }
 }
 
-ReactDOM.render(<Reactforms />, document.getElementById("root"));
+function gth() {
+  const ganesh = <h1>Hi How are u?..this is github learning</h1>;
+}
 
+ReactDOM.render(<Reactforms />, document.getElementById("root"));
 
 //this is first edit ...let me chk
