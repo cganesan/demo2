@@ -268,7 +268,7 @@ class Reactforms extends React.Component {
 function gth() {
   const ganesh = <h1>Hi How are u?..this is github learning</h1>;
 }
-
+//this is am doing second change to learn branching in github
 ReactDOM.render(<Reactforms />, document.getElementById("root"));
 
 //this is first edit ...let me chk
